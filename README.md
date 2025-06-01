@@ -23,9 +23,4 @@ Welcome to **Self Learning**, a mobile-friendly educational platform designed to
 - **📱 Responsive Design (Media Queries)**:
   - Adjusts background colors of `.small1`, `.small2`, and `.small3` based on screen sizes for adaptability.
 
-## 💡 Improvements & Suggestions
-- **Fix Font Weight**: Change `font-weight: 900px;` to `font-weight: bold;`.
-- **Refine Media Queries**: `.small1`, `.small2`, and `.small3` need definitions in HTML.
-- **Enhance List Formatting**: Improve spacing for better readability.
 
-🎯 Hope this helps! Let me know if you'd like more enhancements. 💻🔥
